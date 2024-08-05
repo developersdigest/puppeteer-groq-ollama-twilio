@@ -1,16 +1,13 @@
-# trend
+# puppeteer-groq-ollama-twilio
 
 To install dependencies:
 
 ```bash
 bun install
 ```
-
-To run:
+Remove .example from .env
+Add ENV variables to .env
 
 ```bash
-bun run index.ts
+bun index.ts
 ```
-
-This project was created using `bun init` in bun v1.1.20. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
-# puppeteer-groq-ollama-twilio
